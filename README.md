@@ -84,5 +84,5 @@ cd wild-watch
    ```
     4. open [http://localhost:5173/](http://localhost:5173/) with your browser.
 
-## preview 📸
-https://github.com/user-attachments/assets/46a4d3d0-05e3-4b80-a85d-f1a3e45a0eca
+## You can visit the app at 
+wild-watch.vercel.app
