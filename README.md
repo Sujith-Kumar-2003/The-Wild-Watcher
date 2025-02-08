@@ -45,7 +45,7 @@ to get the project up and running on your local machine, follow these steps:
 - **ensure [python](https://www.python.org/downloads/) and [node.js](https://nodejs.org/en) are installed.**
 1. **clone the repository:**
 ```bash
-git clone https://github.com/barbaraeguche/wild-watch.git
+git clone https://github.com/Sujith-Kumar-2003/The-Wild-Watcher.git
 ```
 
 2. **navigate to the project directory:**
