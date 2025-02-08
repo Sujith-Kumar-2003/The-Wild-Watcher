@@ -85,4 +85,4 @@ cd wild-watch
     4. open [http://localhost:5173/](http://localhost:5173/) with your browser.
 
 ## You can visit the app at 
-wild-watch.vercel.app
+http://wild-watch.vercel.app
